@@ -8,6 +8,9 @@ Este projeto é um treinamento para aprender a utilizar o Cypress, uma ferrament
 - **JavaScript**: Linguagem de programação utilizada para escrever os testes.
 - **Node.js**: Ambiente de execução para JavaScript.
 - **NPM**: Gerenciador de pacotes para instalar dependências.
+- **Gherkin**: Linguagem usada para descrever cenários de teste de forma legível pora todos.
+- **Cucumber**: Framework que suporta a execução de testes escritos em Gherkin.
+- **BDD (Behavior-Driven Development)**: Metodologia de desenvolvimento orientada pelo comportamento.
 
 ## Estrutura do Projeto
 
